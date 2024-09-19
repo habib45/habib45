@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)&nbsp;
   
   ### Frameworks
-  ![Laravel](https://img.shields.io/badge/CodeIgniter-333333?style=for-the-badge&logo=laravel)&nbsp;
+  ![Laravel](https://img.shields.io/badge/Laravel-333333?style=for-the-badge&logo=laravel)&nbsp;
   ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-333333?style=for-the-badge&logo=codeIgniter)&nbsp;
   ![CakePHP](https://img.shields.io/badge/CakePHP-3-333333?style=for-the-badge&logo=cakePhp)&nbsp;
   ![Symfony](https://img.shields.io/badge/Symfony-2.8-333333?style=for-the-badge&logo=Symfony)&nbsp;
