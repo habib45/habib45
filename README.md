@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi, I'm Md Ahsan Habib 👋</h1>
-<p>I’m a Zend-certified software engineer specializing in building Web Applications. I love building web applications using `php`. &nbsp;As for the backend, I work with `Laravel`, `CodeIgniter`, `Symfony`, `CakePHP`, `Slim`, `WordPress`, `Magento 2` & `SQL` following Microservice & Clean Architecture Principles. I have extensive experience on `AWS` as well. 
+<p>I’m a Zend-certified software engineer specializing in building Web Applications. I love building web applications using `php`. &nbsp;As for the backend, I work with Laravel, CodeIgniter, Symfony, CakePHP, Slim, WordPress, Magento 2 & SQL following Microservice & Clean Architecture Principles. I have extensive experience on `AWS` as well. 
 </p>
 
 # 🛠 &nbsp;Tech Stack
