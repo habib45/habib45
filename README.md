@@ -1,74 +1,110 @@
+# Hi, I'm Md Ahsan Habib 👋
+
+[![Profile Views](https://komarev.com/ghpvc/?username=habib45&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/habib45)
+[![GitHub followers](https://img.shields.io/github/followers/habib45?label=Followers&style=flat&color=blue)](https://github.com/habib45?tab=followers)
+[![Achievement](https://img.shields.io/badge/🏆-Pull%20Shark%20x2-blue)](https://github.com/habib45?tab=achievements)
+[![Achievement](https://img.shields.io/badge/🏆-Pair%20Extraordinaire-blue)](https://github.com/habib45?tab=achievements)
+
+**Senior Backend Developer (PHP / Laravel / Go) · Zend Certified Engineer (ZEND033481) · Certified Scrum Master**
+
+I build high-performance, event-driven backend systems for fintech, telecom, and SaaS products — and lead teams that ship them in production. 10+ years of PHP, with Laravel as my daily driver; deep experience in Symfony, CodeIgniter, MySQL tuning, and Kubernetes-native deployments on AWS.
+
+Currently focused on **SentinelGo** — a self-hosted enterprise IT-ops platform that consolidates MDM, SIEM, ticketing, and AI-driven workflow automation. Built from scratch with Go, FastAPI, and Laravel.
+
+- 🌍 Based in Dhaka, Bangladesh · open to senior/lead backend roles in NL, DE, SG, AU, UAE, SE, JP
+- 💼 Available for visa-sponsorship positions (NL Kennismigrant / EU Blue Card eligible)
+- 📫 Reach me: **habib.cst@gmail.com** · [+880 1840 040 371](tel:+8801840040371)
+- 🌐 Portfolio: [a-habib.netlify.app](https://a-habib.netlify.app)
+- ✍️  I write about backend engineering on [Medium](https://medium.com/@habib-cst)
+
+---
+
+### 🧠 What I work with
+
+**Backend & Architecture**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=microgen&logoColor=white)
+![DDD](https://img.shields.io/badge/DDD-1B6FAD?style=for-the-badge)
+![CQRS](https://img.shields.io/badge/CQRS-1B6FAD?style=for-the-badge)
+
+**Databases & Messaging**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+**Frontend & Tools**
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Magento](https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0A0AFF?style=for-the-badge&logo=jira&logoColor=white)
+
+---
 
 
-<!--
-**habib45/habib45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi, I'm Md Ahsan Habib 👋</h1>
-<p>I’m a Zend-certified software engineer specializing in building Web Applications. I love building web applications using `php`. &nbsp;As for the backend, I work with Laravel, CodeIgniter, Symfony, CakePHP, Slim, WordPress, Magento 2 & SQL following Microservice & Clean Architecture Principles. I have extensive experience on `AWS` as well. 
+### 🎯 What I'm working on
+
+- 🔭 **SentinelGo** — self-hosted enterprise IT-ops / cybersecurity SaaS (Go, FastAPI, Laravel)
+- 🌱 Learning more about **Kubernetes operators** and **OpenTelemetry** for distributed tracing
+- 👯 Open to collaborating on **DDD / CQRS reference implementations** in Laravel or Go
+- 💬 Ask me about **MySQL query tuning, microservices migration, and event-driven systems**
+- ⚡ Fun fact: I once tuned MySQL hard enough to drop a production server from 8 vCPUs to 2
+
+---
+
+### 🏆 Selected production work
+
+- **Dynamic Workflow Engine (Grameenphone)** — metadata-driven approval engine serving 30,000+ concurrent internal users. Laravel + MySQL + RabbitMQ + Elasticsearch.
+- **Corporate Banking — Prime Bank** — security-first core-banking modules (Positive Pay, NPL, fund transfers). PHP, Laravel, Oracle, FastAPI.
+- **MyBL — Banglalink** — telecom self-care app, 500K DAU / 5M total users. Laravel, Cassandra, gRPC-Web.
+- **WACABS Ride-Share (Australia)** — Laravel + MySQL + Redis + REST backend for one of AU's largest ride-share platforms.
+- **Pickaboo E-Commerce** — Magento 2 + GraphQL + AWS for a 50K-user bilingual EN/BN shop.
+- **TalkRemit** — international money transfer & eWallet platform with PCI-DSS-aware flows.
+
+Full case studies → [a-habib.netlify.app](https://a-habib.netlify.app/#portfolio)
+
+---
+
+### 🤝 Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ahabib45" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@habib-cst" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://a-habib.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:habib.cst@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
-
-# 🛠 &nbsp;Tech Stack
-
-  ### 🌐 &nbsp;Web Development
-  ![HTML5](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
-  ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-  ![PHP](https://img.shields.io/badge/php-333333?style=flat&logo=PHP)&nbsp;
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-333333?style=flat&logo=bootstrap)&nbsp;
-  ![jQuery](https://img.shields.io/badge/jquery-333333?style=flat&logo=jquery)&nbsp;
-  ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)&nbsp;
-  
-  ### Frameworks
-  ![Laravel](https://img.shields.io/badge/Laravel-333333?style=for-the-badge&logo=laravel)&nbsp;
-  ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-333333?style=for-the-badge&logo=codeIgniter)&nbsp;
-  ![CakePHP](https://img.shields.io/badge/CakePHP-3-333333?style=for-the-badge&logo=cakePhp)&nbsp;
-  ![Symfony](https://img.shields.io/badge/Symfony-2.8-333333?style=for-the-badge&logo=Symfony)&nbsp;
-  ![Slim](https://img.shields.io/badge/Slim-333333?style=for-the-badge&logo=Slim)&nbsp;
-  #### CMS 
-  ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;
-  ![Magento](https://img.shields.io/badge/Magento-2-333333?style=for-the-badge&logo=Magento)&nbsp;
-  ### 🛢 &nbsp; Databases
-  ![MySQL](https://img.shields.io/badge/MySQL-333333?logo=MySQL&style=for-the-badge&logoColor=white)&nbsp;
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
-  ![MsSQL](https://img.shields.io/badge/MsSQL-%2307405e.svg?style=for-the-badge&logo=MsSQL&logoColor=white)&nbsp;
-  ![Oracle](https://img.shields.io/badge/-Oracle-C0C0C0?style=for-the-badge&logo=Oracle&logoColor=F80000)&nbsp;
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ### ⚙️ &nbsp; Tools (Databases, IDE, Cloud, Hosting, etc)
-  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=Firebase&logoColor=white)&nbsp;
-  ![Firebase](https://img.shields.io/badge/Firebase-F38020?style=for-the-badge&logo=Firebase&logoColor=white)&nbsp;
-  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-%230078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge)&nbsp;
- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
- ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
- ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)&nbsp;
- ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)&nbsp;
- ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)&nbsp;
- ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)&nbsp;
- ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
- ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)&nbsp; 
- ![Yarn](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)&nbsp; 
- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
- ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) 
- ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
- ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) 
- ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
-#### Reach Out Me
-[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/habib45)
-[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahabib45/)
-
-<img src="https://imgur.com/rilHVxA.png"/> 
